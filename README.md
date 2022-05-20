@@ -3,6 +3,7 @@
 # ファイルの説明
 ・bDriver：iOSアプリ bDriverのソースコード(2015年頃)  
 ・RCmini4WDDriver：iOSアプリ bDriverMXのソースコード(2017年頃）  
+・bDriver2：iOSアプリ bDriver2のソースコード
 ・README.md このファイル  
   
 # モジュール仕様、GATT仕様、アプリの操作方法など
